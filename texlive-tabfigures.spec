@@ -1,12 +1,12 @@
-# revision 24025
+# revision 25202
 # category Package
 # catalog-ctan /macros/latex/contrib/tabfigures
-# catalog-date 2011-09-19 11:41:25 +0200
+# catalog-date 2012-01-25 23:45:22 +0100
 # catalog-license lppl1.3
-# catalog-version 1.0
+# catalog-version 1.1
 Name:		texlive-tabfigures
-Version:	1.0
-Release:	2
+Version:	1.1
+Release:	1
 Summary:	Maintain vertical alignment of figures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabfigures
