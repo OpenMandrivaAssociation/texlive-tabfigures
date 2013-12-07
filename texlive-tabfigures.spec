@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-tabfigures
 Version:	1.1
-Release:	4
+Release:	5
 Summary:	Maintain vertical alignment of figures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabfigures
