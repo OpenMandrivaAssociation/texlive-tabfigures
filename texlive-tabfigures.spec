@@ -1,6 +1,6 @@
 Name:		texlive-tabfigures
 Version:	25202
-Release:	1
+Release:	2
 Summary:	Maintain vertical alignment of figures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabfigures
