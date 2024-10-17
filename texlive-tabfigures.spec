@@ -3,7 +3,7 @@ Version:	25202
 Release:	2
 Summary:	Maintain vertical alignment of figures
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tabfigures
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tabfigures
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tabfigures.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tabfigures.doc.r%{version}.tar.xz
